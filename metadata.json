@@ -1,0 +1,8 @@
+{
+  "name": "Intelligent Document Capture",
+  "description": "Extract text from photos or scanned documents using AI and export it to a CSV file.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
